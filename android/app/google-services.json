@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52754244125",
+    "project_id": "spaktrim",
+    "storage_bucket": "spaktrim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52754244125:android:f75b45a000d9ba234f1cf4",
+        "android_client_info": {
+          "package_name": "com.example.spak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXxGW_X1DWiDoyNoV1DP0JVzwC-IiHucg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
